@@ -33,7 +33,7 @@ This repository serves as a clear, categorized handbook of the most important Li
 ## Objective
 To provide a fast, beginner-friendly yet technically thorough reference for anyone working with Linux. Every command includes a plain-English explanation, standard syntax, common flags, and copy-pasteable examples for immediate use.
 
-## 🛠️ Linux Environments & Distribution Baselines
+## Linux Environments & Distribution Baselines
 Linux distributions generally fall into two major families based on how they package and manage software:
 
 | Family | Major Distributions | Package Tool | Low-Level Installer | Default Firewall Service |
